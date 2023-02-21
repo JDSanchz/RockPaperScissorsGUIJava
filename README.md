@@ -8,20 +8,18 @@ Developing a Rock, Paper, Scissors game in Java with a GUI using Swing is a grea
 [Software Demo Video](https://youtu.be/vLRIBeRBTjs)
 
 # Development Environment
-- Intellij by JetBrain 
+- Intellij by JetBrains
 
 - Java 
 - The Abstract Window Toolkit Library
 - The Swing Library
 
 # Useful Websites
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3Schools](https://www.w3schools.com/java/java_conditions.asp)
+- [Java T Point](https://www.javatpoint.com/java-swing)
+- [Youtube](https://www.youtube.com/results?search_query=rock+paper+scissiors+java&sp=QgIIAQ%253D%253D)
 
 # Future Work
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Sound effects for the buttons, wins and losses.
+- An array of different gifs to choose from when the user wins.
+- Implement a 2 player mode.
