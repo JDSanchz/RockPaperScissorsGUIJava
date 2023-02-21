@@ -1,6 +1,5 @@
 # Overview
 
-Rock, Paper, Scissors Game
 This is a simple implementation of the popular game Rock, Paper, Scissors in Java with a graphical user interface (GUI) using Swing. The game allows users to play against the computer, which randomly selects one of the three options, and keeps track of the score. Every time the user wins a new window containing a Gif file will be displayed.
 
 Developing a Rock, Paper, Scissors game in Java with a GUI using Swing is a great exercise for beginners in Java to practice programming concepts like conditional statements, and event handling, while also creating a fun and interactive game.
